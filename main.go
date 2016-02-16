@@ -1,4 +1,4 @@
-package main
+sdgsdgsgpackage main
 
 import (
 	"fmt"
